@@ -14,3 +14,4 @@ This is a 3 level pirate game made in a group of 4 people for our Game Programmi
 <img width="885" alt="Screen Shot 2020-11-10 at 3 23 38 PM" src="https://user-images.githubusercontent.com/71845592/98745896-4e78a600-2369-11eb-92e0-9c132c79dbf3.png">
 
 ## Scene 4 - Collection with Smart/AI Enemies
+<img width="885" alt="Screen Shot 2020-11-10 at 3 24 31 PM" src="https://user-images.githubusercontent.com/71845592/98745950-6a7c4780-2369-11eb-98da-da2dd69bcd28.png">
