@@ -8,3 +8,6 @@ This is a 3 level pirate game made in a group of 4 people for our Game Programmi
 <img width="885" alt="Screen Shot 2020-11-10 at 3 22 05 PM" src="https://user-images.githubusercontent.com/71845592/98745775-03f72980-2369-11eb-9e3d-a8c0c7181792.png">
 
 ## Scene 2 - Collect Only
+<img width="885" alt="Screen Shot 2020-11-10 at 3 22 36 PM" src="https://user-images.githubusercontent.com/71845592/98745831-2a1cc980-2369-11eb-9238-d6c28beb787f.png">
+
+## Scene 3 - Collection with Enemies
